@@ -16,7 +16,4 @@ This design has been modified from the original to:
   - Used the color coding required by Ponoko
   - Added an M3 wrench for convenience
 
-This file is the 2nd of two files (2/2).
-
-Please report any corrections to 
-https://github.com/jcard0na/mearm/issues
+Please report any corrections by creating issues in this github project.
