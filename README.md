@@ -16,4 +16,10 @@ This design has been modified from the original to:
   - Used the color coding required by Ponoko
   - Added an M3 wrench for convenience
 
+This design has been further modified in order to:
+  - Accomadate edges on Adafruit servos
+  - An added version with numbered parts
+  - Added .dxf versions of both numbered
+    and unlabeled files
+
 Please report any corrections by creating issues in this github project.
