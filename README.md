@@ -17,7 +17,7 @@ This design has been modified from the original to:
   - Added an M3 wrench for convenience
 
 This design has been further modified in order to:
-  - Accomadate edges on Adafruit servos
+  - Accomadate edges on Adafruit standard servos
   - An added version with numbered parts
   - Added .dxf versions of both numbered
     and unlabeled files
